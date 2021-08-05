@@ -15,9 +15,9 @@ TBD
 
 ## Contents
 
-Data
-Final Datasets - Contains final datasets used for modeling
-Raw Data - Raw datasets straight from the source
+Data  
+Final Datasets - Contains final datasets used for modeling  
+Raw Data - Raw datasets straight from the source  
 
 Saved Models - Contains hate speech model and offensive speech model saved using PyCaret
 
