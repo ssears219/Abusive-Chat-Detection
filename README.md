@@ -21,7 +21,7 @@ Raw Data - Raw datasets straight from the source
 
 Saved Models - Contains hate speech model and offensive speech model saved using PyCaret
 
-Exploratory Data Analysis.ipynb - Initial loading of data, word clouds
+Exploratory Data Analysis.ipynb - Initial loading of data, word clouds  
 Predictive Modeling.ipynb - Data preprocessing, modeling prep, modeling, evalatuation, use case illustration
 
 
