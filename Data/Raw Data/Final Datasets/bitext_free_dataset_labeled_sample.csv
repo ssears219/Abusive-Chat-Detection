@@ -1,0 +1,300 @@
+utterance,category,intent,hate,offensive,profanity
+"I'm not happy with the service, what do I have to do to submit a consumer complaint?",FEEDBACK,complaint,0,0,0
+"do you mind asking Alexa how I could check my order, please?",ORDER,track_order,0,0,0
+"ask alexa how to call customer supoort, please",CONTACT,contact_customer_service,0,0,0
+"I have an issue making a payment, how can I report it?",PAYMENT,payment_issue,0,0,0
+can u ask alexa where to see the cancellation penalty?,CANCELLATION_FEE,check_cancellation_fee,0,0,0
+could i create a user account?,ACCOUNT,create_account,0,0,0
+I need help reporting issues making a payment,PAYMENT,payment_issue,0,0,0
+I get an error message when I attempt to pay with card,PAYMENT,payment_issue,0,0,0
+"I have an issue when trying to make a payment with card, can you help me?",PAYMENT,payment_issue,0,0,0
+"i dont have an online account, what do i have to do to open one?",ACCOUNT,create_account,0,0,0
+"I didn't receive my invoice, view it",INVOICES,check_invoices,0,0,0
+"I have an issue paying for my online order, what can I do?",PAYMENT,payment_issue,0,0,0
+can I report problems paying?,PAYMENT,payment_issue,0,0,0
+"i have a question, what do i have to do to call customer support?",CONTACT,contact_customer_service,0,0,0
+"ive got no user account, help me open one",ACCOUNT,create_account,0,0,0
+can you give me information about the email of the Client Service?,CONTACT,contact_customer_service,0,0,0
+"I have a problem paying for my order, can you inform of it?",PAYMENT,payment_issue,0,0,0
+"ask alexa how i could remove my account, please",ACCOUNT,delete_account,0,0,0
+"I lost my account password, how can I retrieve it?",ACCOUNT,recover_password,0,0,0
+can you obtain a bill?,INVOICES,get_invoice,0,0,0
+tell me if I can create more than one user account with the same email address,ACCOUNT,create_account,0,0,0
+i wanna know if i could have more than one user account,ACCOUNT,create_account,0,0,0
+"I have an issue paying for my online order, what can I do to inform of it?",PAYMENT,payment_issue,0,0,0
+"I am discontent with the service, how could I file a fucking complaint?",FEEDBACK,complaint,0,1,1
+"i have a problem when trying to make a payment with card, can i notify it?",PAYMENT,payment_issue,0,0,0
+where can I see your refund policy?,REFUNDS,check_refund_policy,0,0,0
+i want to ask for information about geting a bill,INVOICES,get_invoice,0,0,0
+help me open a user account,ACCOUNT,create_account,0,0,0
+"I am not happy with the service, could I file a consumer complaint?",FEEDBACK,complaint,0,0,0
+"I haven't got a profile, how can I create one?",ACCOUNT,create_account,0,0,0
+I want to know if I can check my package,ORDER,track_order,0,0,0
+can you show me the email of Customer Service?,CONTACT,contact_customer_service,0,0,0
+is it possible to track my orders?,ORDER,track_order,0,0,0
+"I got an error when I attempted to make a payment, but my card was charged anyway, what can I do to report it?",PAYMENT,payment_issue,0,0,0
+i want to know how I can know where my shipments are,ORDER,track_order,0,0,0
+can I solve problems making a payment?,PAYMENT,payment_issue,0,0,0
+"i got an error message whe i tried to make a payment, but i was charged anyway, can u report it?",PAYMENT,payment_issue,0,0,0
+"i have an issue when trying to make a payment, what do i have to do to notify it?",PAYMENT,payment_issue,0,0,0
+"I want to inform of a problem paying, what can I do?",PAYMENT,payment_issue,0,0,0
+how do I talk to a person?,CONTACT,contact_human_agent,0,0,0
+"I changed my mind, can you delete my usef account?",ACCOUNT,delete_account,0,0,0
+"i got an error when i attempted to pay, but my card was charged anyway, how can i notify it?",PAYMENT,payment_issue,0,0,0
+help me check my deliveties,ORDER,track_order,0,0,0
+"I lost my invoices, can you show them?",INVOICES,check_invoices,0,0,0
+can i register several fucking online accounts with a single email ?,ACCOUNT,create_account,0,1,1
+"please, can you ask Alexa where I could notify problems making a payment?",PAYMENT,payment_issue,0,0,0
+"I want to obtain some invoices, tell me how to do it",INVOICES,get_invoice,0,0,0
+"I changed my mind, how do I cancel my account?",ACCOUNT,delete_account,0,0,0
+"an error pops when I try to pay, can you help me?",PAYMENT,payment_issue,0,0,0
+help me solve issues with my payment,PAYMENT,payment_issue,0,0,0
+I want to report a problem paying,PAYMENT,payment_issue,0,0,0
+tell me if I can have several accounts,ACCOUNT,create_account,0,0,0
+im discontent with the service and i want to file a consumer complaint,FEEDBACK,complaint,0,0,0
+can you give me information about the email of the Customer Support?,CONTACT,contact_customer_service,0,0,0
+can you give me information about the delivery period?,DELIVERY,delivery_period,0,0,0
+"I want to submit a complaint, what do I have to do?",FEEDBACK,complaint,0,0,0
+"can u ask alexa how to talk to a human, please?",CONTACT,contact_human_agent,0,0,0
+can you give me information about the status of my refund?,REFUNDS,track_refund,0,0,0
+"i wanna obtain a reimbursement, what should i do?",REFUNDS,get_refund,0,0,0
+can u ask alexa where to request an invoice?,INVOICES,get_invoice,0,0,0
+help me report payment issues,PAYMENT,payment_issue,0,0,0
+"could you ask alexa how I could subscribe to the fucking newsletter, please?",NEWSLETTER,newsletter_subscription,0,1,1
+"I have an issue paying, what do I have to do?",PAYMENT,payment_issue,0,0,0
+"I want to check your refund policy, what can I do?",REFUNDS,check_refund_policy,0,0,0
+"I purchased an item, help me change my order",ORDER,change_order,0,0,0
+"I can't understand you, how do I contact a human?",CONTACT,contact_human_agent,0,0,0
+"can you ask Alexa how to notify problems paying, please?",PAYMENT,payment_issue,0,0,0
+"I want to solve an issue making a payment, what should I do?",PAYMENT,payment_issue,0,0,0
+I want to know if I can register more than one profile with a single email address,ACCOUNT,create_account,0,0,0
+"I haven't got an account, can you create one?",ACCOUNT,create_account,0,0,0
+"I bought something, whta can I do to change my order?",ORDER,change_order,0,0,0
+ca you ask Alexa to solve a fucking payment problem ?,PAYMENT,payment_issue,0,1,1
+"I have a problem when trying to pay for my order, report it",PAYMENT,payment_issue,0,0,0
+"please, could you ask Alexa to retrieved my password?",ACCOUNT,recover_password,0,0,0
+can u show me the phone number to contact customer support?,CONTACT,contact_customer_service,0,0,0
+"the show was postponed, what do I have to do to obtain a reimbursement?",REFUNDS,get_refund,0,0,0
+ask alexa if i can see the fucking status of my refund,REFUNDS,track_refund,0,1,1
+"I have a question, I need help calling Customer Service",CONTACT,contact_customer_service,0,0,0
+how fast can I expect my ticket to arrive?,DELIVERY,delivery_period,0,0,0
+"I have no online account, what do I have to do to register?",ACCOUNT,create_account,0,0,0
+"I can't understand you, contact a human, please",CONTACT,contact_human_agent,0,0,0
+"I get an error when I attempt to make a payment for my online order, can you help me?",PAYMENT,payment_issue,0,0,0
+"I didn't receive my bill, what should I do to check it?",INVOICES,check_invoices,0,0,0
+how to view the options for ticket delivery,DELIVERY,delivery_options,0,0,0
+"I have a question, I need help contacting Customer Support",CONTACT,contact_customer_service,0,0,0
+tell me if i can change my order,ORDER,change_order,0,0,0
+ask alexa what the email address to contact Client Service is,CONTACT,contact_customer_service,0,0,0
+I have no user account and I want to open one,ACCOUNT,create_account,0,0,0
+"I got an error when I attempted to make an payment, but I was charged anyway, can you inform of it?",PAYMENT,payment_issue,0,0,0
+"I don't have a user account, what can I do to create one?",ACCOUNT,create_account,0,0,0
+how can i change to another user account?,ACCOUNT,switch_account,0,0,0
+i need help leaving an opinion,FEEDBACK,review,0,0,0
+"i wanna inform of a payment problem, can u help me?",PAYMENT,payment_issue,0,0,0
+"please, Id like to ask for information about requesting an invoice",INVOICES,get_invoice,0,0,0
+"I got no payment confirmation, what do I have to do?",PAYMENT,payment_issue,0,0,0
+"i dont have an online account, i need help creating one",ACCOUNT,create_account,0,0,0
+can u ask alexa where to notify issues making a payment?,PAYMENT,payment_issue,0,0,0
+"please, can you tell me how I could check my shipments?",ORDER,track_order,0,0,0
+"I bought something, can I modify my order?",ORDER,change_order,0,0,0
+"i want a user account, how can i create one?",ACCOUNT,create_account,0,0,0
+"I got an error message when I tried to pay, but my card was charged anyway, what can I do to report it?",PAYMENT,payment_issue,0,0,0
+what's the email address to contact Client Service?,CONTACT,contact_customer_service,0,0,0
+"i have a problem when trying to pay for my online order, can i inform of it?",PAYMENT,payment_issue,0,0,0
+"I have a problem paying with card, help me report it",PAYMENT,payment_issue,0,0,0
+I need help sending an email to Customer Support,CONTACT,contact_customer_service,0,0,0
+i want to know if i can register more than one profile with the same email address,ACCOUNT,create_account,0,0,0
+tell me what the free number to contact Client Service is,CONTACT,contact_customer_service,0,0,0
+I found problems while registering,ACCOUNT,registration_problems,0,0,0
+ask alexa if i can chexk my shipments,ORDER,track_order,0,0,0
+"I lost my password, how can I reset it?",ACCOUNT,recover_password,0,0,0
+can you tell me the mail of Customer Support?,CONTACT,contact_customer_service,0,0,0
+"i got an error when i tried to make a payment, but my card was charged anyway, can u help me?",PAYMENT,payment_issue,0,0,0
+can u ask alexa how to update my profile ?,ACCOUNT,edit_account,0,0,0
+"I have no user account, what can I do?",ACCOUNT,create_account,0,0,0
+how can I write an opinion for a service?,FEEDBACK,review,0,0,0
+"the show was postponed, how do I request a refund?",REFUNDS,get_refund,0,0,0
+ask alexa to inform of fucking problems paying,PAYMENT,payment_issue,0,1,1
+"I want to create a profile, what can I do?",ACCOUNT,create_account,0,0,0
+i wanna get information about modifying my order,ORDER,change_order,0,0,0
+I have an issue paying with card and I want to report it,PAYMENT,payment_issue,0,0,0
+tell me where to see an invoice,INVOICES,get_invoice,0,0,0
+how can I notify an issue with my payment?,PAYMENT,payment_issue,0,0,0
+I want to know how to see a bilo,INVOICES,get_invoice,0,0,0
+"I want to check my invoices, what do I have to do?",INVOICES,check_invoices,0,0,0
+i want to solve an issue paying,PAYMENT,payment_issue,0,0,0
+I want to make changes to my shipping adress,SHIPPING,change_shipping_address,0,0,0
+I want to view the cancellation penalties,CANCELLATION_FEE,check_cancellation_fee,0,0,0
+could u ask alexa if i can see the tsatus of my fucking purchase?,ORDER,track_order,0,1,1
+"I have a problem paying, what do I have to do to report it?",PAYMENT,payment_issue,0,0,0
+"I don't have a user account, can you create one?",ACCOUNT,create_account,0,0,0
+I have a question and I want to speak with Client Service,CONTACT,contact_customer_service,0,0,0
+"i want ro reset my account password, what do i have to do?",ACCOUNT,recover_password,0,0,0
+i havd a question and i wanna speak with customert support,CONTACT,contact_customer_service,0,0,0
+"I forgot my password, retrieve it, please",ACCOUNT,recover_password,0,0,0
+i need help talking to a human agent,CONTACT,contact_human_agent,0,0,0
+I want to call Client Service,CONTACT,contact_customer_service,0,0,0
+"I got an error when I tried to pay, but I was charged anyway, can I report it?",PAYMENT,payment_issue,0,0,0
+i am happy with the service and i wanna lodge an opinion,FEEDBACK,review,0,0,0
+"my user account was hacked, help me get it back",ACCOUNT,recover_password,0,0,0
+can i track my order?,ORDER,track_order,0,0,0
+"the game was cancelled, get a refund",REFUNDS,get_refund,0,0,0
+ask alexa how i can report a payment problem,PAYMENT,payment_issue,0,0,0
+the event was postponed and i wanna obtain a refund,REFUNDS,get_refund,0,0,0
+"I need information, how can I send an email to Customer Support?",CONTACT,contact_customer_service,0,0,0
+how can I lodge a complaint?,FEEDBACK,complaint,0,0,0
+"I've got no online account, what can I do to register?",ACCOUNT,create_account,0,0,0
+I want to know how soon I can expect my ticket to arrive,DELIVERY,delivery_period,0,0,0
+"I want to notify a problem paying, can you help me?",PAYMENT,payment_issue,0,0,0
+I want information about the delivery period for my ticket,DELIVERY,delivery_period,0,0,0
+"I don't want my user account, what should I do to delete it?",ACCOUNT,delete_account,0,0,0
+"I lost my account password, can you recover it?",ACCOUNT,recover_password,0,0,0
+"I got an error when I attempted to make a payment, but I was charged anyway and I want to inform of it",PAYMENT,payment_issue,0,0,0
+I want to know when my tickets are going to arrive,DELIVERY,delivery_period,0,0,0
+i want to notify a ayment problem,PAYMENT,payment_issue,0,0,0
+"I have a problem when trying to make a payment with card, what do I have to do to notify it?",PAYMENT,payment_issue,0,0,0
+"I want to recover my account password, how can I do it?",ACCOUNT,recover_password,0,0,0
+i want to know what the mail address to contact customer service is,CONTACT,contact_customer_service,0,0,0
+"I'm happy with the service, how do I submit an opinion?",FEEDBACK,review,0,0,0
+"I got an error when I attempted to pay, but my card was charged anyway, what do I have to do to report it?",PAYMENT,payment_issue,0,0,0
+how to get a reimbursement,REFUNDS,get_refund,0,0,0
+"I bought a product, can I change my order?",ORDER,change_order,0,0,0
+can u ask alexa if i can report a problem paying?,PAYMENT,payment_issue,0,0,0
+"i forgot my account password, retrieve it",ACCOUNT,recover_password,0,0,0
+"u are not helping, can u talk to a human agent?",CONTACT,contact_human_agent,0,0,0
+I need information about the delivery period for my ticket,DELIVERY,delivery_period,0,0,0
+"I want to notify a problem making a payment, what should I do?",PAYMENT,payment_issue,0,0,0
+i wanna know if theres a newsletter ot keep me up-to-date,NEWSLETTER,newsletter_subscription,0,0,0
+what's the number of Customer Service?,CONTACT,contact_customer_service,0,0,0
+"the game was postponed, obtain a reimbursement",REFUNDS,get_refund,0,0,0
+tell me where to check my orders,ORDER,track_order,0,0,0
+where do I track my refund?,REFUNDS,track_refund,0,0,0
+where do I view your money back guarantee?,REFUNDS,check_refund_policy,0,0,0
+"the event was cancelled and i want to obtain a fucking reimbursement, please",REFUNDS,get_refund,0,1,1
+ask alexa how to open an online account,ACCOUNT,create_account,0,0,0
+ask alexa if i can obtain an invoice,INVOICES,get_invoice,0,0,0
+"my account has been hacked, how do i recover it?",ACCOUNT,recover_password,0,0,0
+"I want to make a purchase, what should I do?",ORDER,place_order,0,0,0
+"i want to submit a review, what do i have to do?",FEEDBACK,review,0,0,0
+"I have an issue paying, what should I do to inform of it?",PAYMENT,payment_issue,0,0,0
+"I bought a product, what should I do to change my purchase?",ORDER,change_order,0,0,0
+I'm having problems when trying to sign up,ACCOUNT,registration_problems,0,0,0
+where do I notify payment problems?,PAYMENT,payment_issue,0,0,0
+can u ask alexa if i can check my shipments?,ORDER,track_order,0,0,0
+"my user account was hacked, i need help getting it back",ACCOUNT,recover_password,0,0,0
+"please, could u ask alexa where to lodge a consumer complaint for a service?",FEEDBACK,complaint,0,0,0
+I want information about the status of my order,ORDER,track_order,0,0,0
+"i dont understand you, contact someone",CONTACT,contact_human_agent,0,0,0
+"i wanna make a review for a service, what can i do?",FEEDBACK,review,0,0,0
+"I would like information, I need help calling Customer Service, please",CONTACT,contact_customer_service,0,0,0
+"please, could u ask alexa to inform of a fucking payment issue?",PAYMENT,payment_issue,0,1,1
+can you tell me if I can change my purchase?,ORDER,change_order,0,0,0
+i need help seeing a bill,INVOICES,get_invoice,0,0,0
+I want to know if I can create more than one user account with the same email,ACCOUNT,create_account,0,0,0
+can you tell me the free phone number to contact Customer Support?,CONTACT,contact_customer_service,0,0,0
+"i got an error message when i attempted to make a payment, but my card was charged anyway, what do i have to do to notify it?",PAYMENT,payment_issue,0,0,0
+u are not helping and i want to talk to a person,CONTACT,contact_human_agent,0,0,0
+"I have a question, how do I send an email to Customer Service?",CONTACT,contact_customer_service,0,0,0
+download a bill,INVOICES,get_invoice,0,0,0
+"I  ordered something, what should I do to modify my order?",ORDER,change_order,0,0,0
+i dont want my online acount and i wanna remove it,ACCOUNT,delete_account,0,0,0
+I'm having issues creating a profile,ACCOUNT,registration_problems,0,0,0
+I want to write a review,FEEDBACK,review,0,0,0
+could you ask Alexa to give me information about their payment methods?,PAYMENT,check_payment_methods,0,0,0
+I want to request information about modifying my order,ORDER,change_order,0,0,0
+whats the mail to contact Customer Support?,CONTACT,contact_customer_service,0,0,0
+I bought an item and I want to change my purchase,ORDER,change_order,0,0,0
+I want to obtain a bill,INVOICES,get_invoice,0,0,0
+where can I lodge a complaint for a service?,FEEDBACK,complaint,0,0,0
+can u ask alexa where to inform of a problem with my payment?,PAYMENT,payment_issue,0,0,0
+"I've got no user account, what should I do?",ACCOUNT,create_account,0,0,0
+i get an error message when i attempt to make a payment for my online order,PAYMENT,payment_issue,0,0,0
+"I want to see the status of my purcase, can you help me?",ORDER,track_order,0,0,0
+"you arent helping, speak with a person",CONTACT,contact_human_agent,0,0,0
+"the event was postponed, can I obtain a reimbursement?",REFUNDS,get_refund,0,0,0
+"I have an issue when trying to make a payment, how do I notify it?",PAYMENT,payment_issue,0,0,0
+tell me where I can track my orders,ORDER,track_order,0,0,0
+"I've got no online account, I need help opening one",ACCOUNT,create_account,0,0,0
+"I wanna see a bill, can you give me some information?",INVOICES,get_invoice,0,0,0
+"I ordered an item, how do i change my order?",ORDER,change_order,0,0,0
+where can I inform of problems with my payment?,PAYMENT,payment_issue,0,0,0
+ask Alexa if I can place a fucking order,ORDER,place_order,0,1,1
+"I haven't got a fucking user account, help me create one",ACCOUNT,create_account,0,1,1
+ask alexa if i can delete my profile,ACCOUNT,delete_account,0,0,0
+could you ask Alexa how to write a review for a service?,FEEDBACK,review,0,0,0
+"please, could you ask Alexa ohw I could inform of fucking problems paying?",PAYMENT,payment_issue,0,1,1
+I wanna get information about requesting a bill,INVOICES,get_invoice,0,0,0
+"the game was postponed, how can I get a reimbursement?",REFUNDS,get_refund,0,0,0
+how to check the delivery options,DELIVERY,delivery_options,0,0,0
+where to see the status of my refund,REFUNDS,track_refund,0,0,0
+"you're not helping, what do I have to do to contact a human agent?",CONTACT,contact_human_agent,0,0,0
+help me modify the information on my profile,ACCOUNT,edit_account,0,0,0
+ask alexa how to notify problems making a payment,PAYMENT,payment_issue,0,0,0
+"i got an error when i attempted to oay, but my card was charged anyway, what do i have to do to inform of it?",PAYMENT,payment_issue,0,0,0
+"ask alexa how to view my bill, please",INVOICES,check_invoices,0,0,0
+"I have a problem making a payment with card, can you report it?",PAYMENT,payment_issue,0,0,0
+where do i notify payment issues?,PAYMENT,payment_issue,0,0,0
+"i got an reror mesage when i attempted to pay, but i was charged anyway and i want to notify it",PAYMENT,payment_issue,0,0,0
+"i wanna check my invoices, could u help me?",INVOICES,check_invoices,0,0,0
+"I need information, what should I do to talk to Customer Service?",CONTACT,contact_customer_service,0,0,0
+I can' remember my fucking password and I would like to reset it,ACCOUNT,recover_password,0,1,1
+"I got an error when I attempted to pay, but my card was charged anyway, how do I inform of it?",PAYMENT,payment_issue,0,0,0
+"an error pops when I attempt to pay, what can I do?",PAYMENT,payment_issue,0,0,0
+I can't understand you,CONTACT,contact_human_agent,0,0,0
+I want to know where I can modify my order,ORDER,change_order,0,0,0
+can you tell me the mail to contact Customer Support?,CONTACT,contact_customer_service,0,0,0
+"ive got no user account, how can i create one ?",ACCOUNT,create_account,0,0,0
+"I am discontent with the service and I want to submit a consumer complaint, please",FEEDBACK,complaint,0,0,0
+"ask Alexa if i can see some fucking bills, please",INVOICES,get_invoice,0,1,1
+i want to obtain a refund,REFUNDS,get_refund,0,0,0
+"I can't find my bill, can you view it?",INVOICES,check_invoices,0,0,0
+"I haven't got an online account, what should I do to create one?",ACCOUNT,create_account,0,0,0
+"i am happy with the service, help me submit a comment",FEEDBACK,review,0,0,0
+can u ask alerxa if my fucking orders are on their way?,ORDER,track_order,0,1,1
+"I've got no profile, how do I create one?",ACCOUNT,create_account,0,0,0
+I want to know if I can register several profiles with a single email address,ACCOUNT,create_account,0,0,0
+i wanna see a bil,INVOICES,get_invoice,0,0,0
+what information can you terll me about obtaining  a bill?,INVOICES,get_invoice,0,0,0
+"I got an error when I tried to make a payment, but I was charged anyway, can you report it?",PAYMENT,payment_issue,0,0,0
+"could u ask alexa to cancel my profile, please?",ACCOUNT,delete_account,0,0,0
+ask alexa where i can track my order,ORDER,track_order,0,0,0
+"I haven't got an account, how do I register?",ACCOUNT,create_account,0,0,0
+"i want to download a bill, can you tell me where to do it?",INVOICES,get_invoice,0,0,0
+"someone stole my password, can u reset it?",ACCOUNT,recover_password,0,0,0
+"the payment failed, can you help me?",PAYMENT,payment_issue,0,0,0
+"I want a reimbursement, how can I obtain one?",REFUNDS,get_refund,0,0,0
+can you tell me if I can create several accounts with the same email address?,ACCOUNT,create_account,0,0,0
+"i wanna see the status of my reimbursement, what can i do?",REFUNDS,track_refund,0,0,0
+where to inform of an issue making a payment,PAYMENT,payment_issue,0,0,0
+"I have an issue when trying to pay for my order, help me report it",PAYMENT,payment_issue,0,0,0
+"i got an error message when i tried to make a payment, but i was charged anyway, what should i do to notify it?",PAYMENT,payment_issue,0,0,0
+"I want to  check your money back pplicy, what do I have to do?",REFUNDS,check_refund_policy,0,0,0
+"youre not helping, what should i do to speak with someone?",CONTACT,contact_human_agent,0,0,0
+I want to get information about obtaining an invoice,INVOICES,get_invoice,0,0,0
+tell me if I can get a fucking bill,INVOICES,get_invoice,0,1,1
+I need information about the mail address of the Customer Support,CONTACT,contact_customer_service,0,0,0
+"I have an issue when trying to pay for my online order, can I inform of it?",PAYMENT,payment_issue,0,0,0
+how to change to another rpofile,ACCOUNT,switch_account,0,0,0
+how can i make a complaint for a service?,FEEDBACK,complaint,0,0,0
+"I want a user account, I need help opening one",ACCOUNT,create_account,0,0,0
+"I don't understand you, how do I speak with someone?",CONTACT,contact_human_agent,0,0,0
+"i dont want my online account, how can i remove it?",ACCOUNT,delete_account,0,0,0
+"I'm discontent with the service, lodge a consumer complaint",FEEDBACK,complaint,0,0,0
+"i have no shipping address, how do i set one up?",SHIPPING,set_up_shipping_address,0,0,0
+"my online account was hacked, and I need help getting it back",ACCOUNT,recover_password,0,0,0
+"ask alexa how i can recover my account password, please",ACCOUNT,recover_password,0,0,0
+"someone stole my password, what should I do to retrieve it?",ACCOUNT,recover_password,0,0,0
+"youre not helping, what should i do to contact a human?",CONTACT,contact_human_agent,0,0,0
+"I got an error message when I tried to pay, but I was charged anyway, can you report it?",PAYMENT,payment_issue,0,0,0
+"I got an error message when I attempted to make a payment, but I was charged anyway, inform of it",PAYMENT,payment_issue,0,0,0
+"the game was cancelled, how do i get a refund?",REFUNDS,get_refund,0,0,0
+"I can't remember my account password, how do I recover it?",ACCOUNT,recover_password,0,0,0
+"I lost my password, what should I do to recover it?",ACCOUNT,recover_password,0,0,0
+where do I leave a comment?,FEEDBACK,review,0,0,0
+can you tell me if i can create more than one user account with a single email?,ACCOUNT,create_account,0,0,0
+"I have no user account, how can I create one?",ACCOUNT,create_account,0,0,0
+how can I see your money back policy ?,REFUNDS,check_refund_policy,0,0,0
+can  I have more than one profile?,ACCOUNT,create_account,0,0,0
+ask alexa how i can inform of fucking payment problems,PAYMENT,payment_issue,0,1,1
+"I have a problem when trying to pay for my online order, what do I have to do to notify it?",PAYMENT,payment_issue,0,0,0
