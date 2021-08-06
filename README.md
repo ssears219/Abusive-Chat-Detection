@@ -6,7 +6,13 @@ Using machine learning to detect hate speech, offenive messages, and profanity i
 
 ## Description
 
-TBD
+In this project, labeled tweets are examined to find associations between words in the tweets 
+and hate or offensive language. The data sets are then processed and vectorized as a means to create 
+machine learning models that predict whether or not a message contains hate speech or offensive 
+language. The models are then used in addition to a list of profane words to create a pipeline for 
+screening messages for inappropriate language. The pipeline is then tested on a labeled random sample 
+from a customer service chat data set. Finally, a use case for this service is explained for the customer 
+service chat domain.
 
 ## Data
 
