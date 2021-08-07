@@ -16,7 +16,7 @@ service chat domain.
 
 ## Data
 
-[Labeled Tweet Data](https://www.kaggle.com/arashnic/7-nlp-tasks-with-tweets)
+[Labeled Tweet Data](https://www.kaggle.com/arashnic/7-nlp-tasks-with-tweets)  
 [Bitext’s Customer Support Dataset](https://blog.bitext.com/free-customer-support-dataset)
 
 ## Contents
