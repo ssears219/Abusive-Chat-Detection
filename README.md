@@ -30,7 +30,8 @@ Saved Models - Contains hate speech model and offensive speech model saved using
 Exploratory Data Analysis.ipynb - Initial loading of data, word clouds  
 Predictive Modeling.ipynb - Data preprocessing, modeling prep, modeling, evalatuation, use case illustration  
 
-Report.pdf - Comprehensive technical report on the project
+Report.pdf - Comprehensive technical report on the project  
+Presentation Deck.pdf - [Presentation Video](
 
 
 
