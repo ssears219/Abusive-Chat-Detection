@@ -51,3 +51,7 @@ Samuel Sears @ssears219
 ## Acknowledgments
 
 * [Word Cloud](https://www.geeksforgeeks.org/generating-word-cloud-python/)
+* [TFIDF Vectorizer](https://www.linkedin.com/pulse/count-vectorizers-vs-tfidf-natural-language-processing-sheel-saket)
+* [PyCaret](https://pycaret.org/)
+* [WhosOn Article on Abusive Customers](https://www.whoson.com/customer-service/when-chatters-attack-dealing-with-abusive-customers/)
+* [Intercom Article on Abusive Customers](https://www.intercom.com/blog/how-to-cut-the-cord-on-inappropriate-customer-conversations)
